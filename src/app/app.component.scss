@@ -1,0 +1,12 @@
+.toolbar {
+  background-color: cadetblue;
+  width: 100%;
+
+  .toolbar-row {
+    display: flex;
+
+    #app-description {
+      font-size: 2em;
+    }
+  }
+}
